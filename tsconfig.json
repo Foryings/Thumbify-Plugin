@@ -16,6 +16,10 @@
       "ES5",
       "ES6",
       "ES7"
+    ],
+    "typeRoots": [
+      "./node_modules/@types", // 默认的类型声明目录
+      "./src/@types"           // 自定义类型声明目录
     ]
   },
   "include": [

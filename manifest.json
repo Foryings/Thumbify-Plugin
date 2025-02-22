@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "thumbify-plugin",
+	"name": "Thumbify Plugin",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"minAppVersion": "1.0.0",
+	"description": "Automatically switches between thumbnail and original image when clicking on an image.",
+	"author": "Zundamon",
+	"authorUrl": "https://your-website.com",
+	"fundingUrl": "https://your-donation-link.com",
 	"isDesktopOnly": false
 }
